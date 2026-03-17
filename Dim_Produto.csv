@@ -1,0 +1,31 @@
+ProdutoID;Produto;Categoria;Marca;PrecoBase
+1;iPhone 15 128GB;Smartphone;Apple;5800
+2;iPhone 14 128GB;Smartphone;Apple;4700
+3;Samsung Galaxy S23;Smartphone;Samsung;3800
+4;Samsung Galaxy A54;Smartphone;Samsung;1900
+5;Xiaomi Redmi Note 13;Smartphone;Xiaomi;1400
+6;Motorola Edge 40;Smartphone;Motorola;3200
+7;Motorola Moto G84;Smartphone;Motorola;1700
+8;Samsung Galaxy Z Flip 5;Smartphone;Samsung;6200
+9;MacBook Air M2;Notebook;Apple;9500
+10;MacBook Air M1;Notebook;Apple;7200
+11;Dell Inspiron 15;Notebook;Dell;4000
+12;Lenovo IdeaPad 3;Notebook;Lenovo;3000
+13;Acer Aspire 5;Notebook;Acer;3400
+14;Asus VivoBook 15;Notebook;Asus;3500
+15;Lenovo Legion 5;Notebook;Lenovo;7800
+16;iPad 10ª geração;Tablet;Apple;4200
+17;iPad Air;Tablet;Apple;6200
+18;Samsung Galaxy Tab S9;Tablet;Samsung;5500
+19;Samsung Galaxy Tab A9;Tablet;Samsung;1800
+20;Xiaomi Pad 6;Tablet;Xiaomi;3000
+21;AirPods Pro 2;Fone;Apple;1900
+22;Sony WH-1000XM5;Fone;Sony;2200
+23;JBL Tune 720BT;Fone;JBL;450
+24;JBL Live 660NC;Fone;JBL;850
+25;Samsung Galaxy Buds 2 Pro;Fone;Samsung;1100
+26;Apple Watch Series 9;Smartwatch;Apple;4500
+27;Samsung Galaxy Watch 6;Smartwatch;Samsung;2300
+28;Xiaomi Watch S1;Smartwatch;Xiaomi;1500
+29;Logitech MX Master 3S;Acessório;Logitech;600
+30;Logitech MX Keys;Acessório;Logitech;750

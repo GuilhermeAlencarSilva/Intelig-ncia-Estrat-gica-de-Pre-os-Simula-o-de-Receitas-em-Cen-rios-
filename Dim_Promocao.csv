@@ -1,0 +1,6 @@
+PromocaoID;TipoPromocao;Desconto
+1;Sem promoção;0,00
+2;Promoção leve;0,05
+3;Promoção média;0,10
+4;Campanha forte;0,15
+5;Black Friday;0,25
