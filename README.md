@@ -397,8 +397,6 @@ simulação de cenários
 
 📬 Contato
 
-Autor: Seu Nome
+Autor: Guilherme Alencar Cruz da Silva
 
-LinkedIn
-GitHub
-Portfólio
+LinkedIn:https://www.linkedin.com/in/guilherme-alencar-327413213/
